@@ -5,11 +5,11 @@
 On the first day, I created a logical diagram to visualize the network setup for the project using <a href= "https://app.diagrams.net">draw.io</a>. This diagram includes the various components and their interactions within the network. Below is a detailed explanation of each component and their roles:
 
 ![image](https://github.com/user-attachments/assets/35ef0387-7e49-4f13-ac79-1a607541f843)
-
+<p style="font-size: 10px; text-align: center;"> **Note:** All the IP addresses are example IPs.</p>
 
 ### Components:
 
-1. **Domain: InfiniteHax**
+1. **Domain: InfiniteHax** (Sample Domain Name)
    - **Network:** 192.168.10.0/24
    - **Splunk Server:** 192.168.10.10
    - **Active Directory:** 192.168.10.7
