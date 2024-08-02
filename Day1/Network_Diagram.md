@@ -41,7 +41,6 @@ On the first day, I created a logical diagram to visualize the network setup for
 
 ### Network Flow:
 
-- The **Splunk Server** forwards logs to the **AD Server**.
 - The **AD Server** and the **Target Machine** send logs to the **Splunk Server** for centralized logging and analysis.
 - The **Attacker Machine** is connected to the network for performing security tests and attacks on the **Target Machine**.
 - All devices are interconnected via the **Layer 2 Switch**, which also connects to the **Router** for Internet access.
