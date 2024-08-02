@@ -1,6 +1,6 @@
 # Active Directory Project
 
-## Day 3: Installing and Configuring Splunk and Sysmon
+## Day 3: Installing and Configuring Splunk service on Ubuntu server
 
 ### Steps:
 
