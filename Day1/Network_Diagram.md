@@ -2,7 +2,7 @@
 
 ## Day 1: Building a Logical Diagram
 
-On the first day, I created a logical diagram to visualize the network setup for the project using <a href= "draw.io">draw.io</a>. This diagram includes the various components and their interactions within the network. Below is a detailed explanation of each component and their roles:
+On the first day, I created a logical diagram to visualize the network setup for the project using <a href= "https://app.diagrams.net">draw.io</a>. This diagram includes the various components and their interactions within the network. Below is a detailed explanation of each component and their roles:
 
 ![image](https://github.com/user-attachments/assets/35ef0387-7e49-4f13-ac79-1a607541f843)
 
